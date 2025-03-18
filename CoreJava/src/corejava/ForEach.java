@@ -10,7 +10,6 @@ public class ForEach {
 			i++;
 			if(s=="C") 
 		System.out.println(i+"."+s);
-			System.out.println(s);
 		
 			
 			
