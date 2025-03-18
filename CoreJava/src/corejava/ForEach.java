@@ -11,7 +11,7 @@ public class ForEach {
 			if(s=="C") 
 		System.out.println(i+"."+s);
 			System.out.println(s);
-			System.out.println(s);
+			
 			
 	}
   }
