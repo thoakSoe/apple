@@ -13,6 +13,6 @@ public class Employee {
 	}void display() {
 		System.out.println(id+" "+name);
 		System.out.println(address.city+" "+address.state+" "+address.country);
-	}System.out.println(id+" "+name);
+	}
 
 }
